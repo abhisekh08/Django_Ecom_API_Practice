@@ -2,7 +2,8 @@
 Ecommerce API project using Django
 
 This project is Practice Project in which we will be implementing the following tasks.
-#Features:
+
+#FEATURES
 - product descriptions in Database
 - Category for products in Database
 - User will be able to sign in, Sign up and Sign out 
