@@ -1,0 +1,8 @@
+Task Performed
+- Creating Virtual Environment
+- Installing Django
+- Installing djangorestframework
+- creating the project "ecom"
+- creating webapp api in "ecom"
+- creating MEDIA folder and configuring It.
+- installing CORS header and configuring it.
