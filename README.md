@@ -24,4 +24,15 @@ This project is Practice Project in which we will be implementing the following 
   - order
 - Defining the Models, Serializers and views for the tasks.  
  
+ Task#1
+ - Modelled the category table
+ - Modelled the product table and added category as foreign key
+ 
+ Task#2
+ - Creating custom user model for the application
+ - token generation
+ - Login, Logout and registration end points
+ - Handling the superuser issue with seed function 
+ 
+ 
   
